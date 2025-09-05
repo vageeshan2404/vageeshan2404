@@ -15,5 +15,5 @@
 Router, Advanced Node.js, MongoDB  
 
 📫 **Connect with me**  
-- LinkedIn: [your-link](https://linkedin.com/in/vageeshan24)  
+- LinkedIn: [LinkedIn - link](https://linkedin.com/in/vageeshan24)  
 - Email: vageeshan2404@gmail.com
